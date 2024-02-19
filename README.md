@@ -18,7 +18,7 @@ You can view the Figma prototype of the admin interface [here](https://www.figma
 ![Product Management](/screenshot/order_managememt.png)
 *Order Management Interface*
 
-![Product Management](/screenshot/bill_managememt.png.png)
+![Product Management](/screenshot/bill_managememt.png)
 *bill Management Interface*
 
 
