@@ -6,12 +6,6 @@ Welcome to the IHAVEGPU E-commerce Admin Interface project! This project focuses
 
 You can view the Figma prototype of the admin interface [here](https://www.figma.com/proto/yxpEHDLsF31702r7SO94Xj/Ihavegup_mockup?type=design&node-id=1-268&t=c111xfdYkg4BTnxh-1&scaling=contain&page-id=0%3A1&mode=design).
 
-## Features
-
-- Intuitive navigation for easy access to product management, order processing, and inventory control.
-- Responsive design to ensure compatibility with various devices and screen sizes.
-- Visual consistency with the IHAVEGPU brand identity.
-- Collaboratively designed using Figma for seamless team collaboration.
 
 ## Screenshots
 
