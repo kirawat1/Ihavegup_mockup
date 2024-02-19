@@ -15,13 +15,12 @@ You can view the Figma prototype of the admin interface [here](https://www.figma
 ![Product Management](/screenshot/product_management.png)
 *Product Management Interface*
 
-## Getting Started
+![Product Management](/screenshot/order_management.png)
+*Order Management Interface*
 
-To get started with the project, simply clone the repository and open the Figma prototype link provided above to explore the admin interface design.
+![Product Management](/screenshot/bill_management.png)
+*bill Management Interface*
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
 ## License
 
