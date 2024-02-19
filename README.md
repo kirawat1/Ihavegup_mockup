@@ -9,10 +9,10 @@ You can view the Figma prototype of the admin interface [here](https://www.figma
 
 ## Screenshots
 
-![Admin Dashboard](/screenshots/admin_dashboard.png)
+![Admin Dashboard](/screenshot/admin_dashboard.png)
 *Admin Dashboard*
 
-![Product Management](/screenshots/product_management.png)
+![Product Management](/screenshot/product_management.png)
 *Product Management Interface*
 
 ## Getting Started
